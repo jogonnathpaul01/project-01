@@ -1,0 +1,35 @@
+.half-width1 {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+h1 {
+  font-size: 50px;
+}
+h1 span {
+  color: orange;
+}
+.half-width1 img {
+  width: 400px;
+}
+.anchor-button {
+  text-decoration: none;
+  background: linear-gradient(45deg, #399af6, #19d6d5);
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+p {
+  color: darkslategrey;
+}
+h2 {
+  font-size: 40px;
+}
+.footer {
+  text-align: center;
+}
+#p {
+  text-align: center;
+}
